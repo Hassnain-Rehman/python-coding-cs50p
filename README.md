@@ -13,6 +13,7 @@ Learning Python fundamentals through Harvard's CS50P course — going through it
 - `lecture4/` - Libraries (pip, using third-party packages, random/statistics modules)
 - `lecture5/` - Unit tests (pytest, assert, test-driven development)
 - `lecture6/` - File I/O (reading/writing files, CSV, working with images/Pillow)
+- lecture7/ - Regular expressions (re module, pattern matching, search/match/findall)
 - (more lecture folders added as I progress)
 
 ## Tools
