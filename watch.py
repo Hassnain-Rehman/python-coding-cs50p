@@ -1,0 +1,17 @@
+import re
+
+def main():
+    print(parse(input("HTML: ")))
+
+
+def parse(s):
+    matches = re.search(r'<iframe\s+[^>]*src="(?:https?://)?(?:www\.)?youtube\.com/embed/([a-zA-Z0-9_-]+)"', s)
+    if matches:
+     return f"https://youtu.be/{matches.group(1)}"
+    return None
+
+                                  
+if __name__ == "__main__":
+    main()
+
+          #<<<<>>>>#
