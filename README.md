@@ -24,4 +24,4 @@ Learning Python fundamentals through Harvard's CS50P course — going through it
 - VS Code
 
 ## Status
-🚧 In progress
+✅ Completed
