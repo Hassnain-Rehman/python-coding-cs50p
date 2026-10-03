@@ -16,8 +16,8 @@ Learning Python fundamentals through Harvard's CS50P course — going through it
 - `lecture7/` - Regular expressions (re module, pattern matching, search/match/findall)
 - `lecture8/` - Object-oriented programming (classes, objects, methods, properties, inheritance, operator overloading)
 - `lecture9/` - Et cetera (sets, type hints, docstrings, argparse, *args/**kwargs, comprehensions, generators)
-- `final-project/` - CS50P final project done
-- (more lecture folders added as I progress)
+- `final-project/` - CS50P final project (Math_Quiz) done.
+- (Course Completed!)
 
 ## Tools
 - Python 3.13
