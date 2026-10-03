@@ -16,7 +16,7 @@ Learning Python fundamentals through Harvard's CS50P course — going through it
 - `lecture7/` - Regular expressions (re module, pattern matching, search/match/findall)
 - `lecture8/` - Object-oriented programming (classes, objects, methods, properties, inheritance, operator overloading)
 - `lecture9/` - Et cetera (sets, type hints, docstrings, argparse, *args/**kwargs, comprehensions, generators)
-- `final-project/` - Math_Quiz: [A command-line quiz that generates random math questions and tracks your score]
+- `final-project/` - Math_Quiz: A command-line quiz that generates random math questions and tracks your score
 - (Course Completed!)
 
 ## Tools
